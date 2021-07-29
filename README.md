@@ -1,6 +1,6 @@
 ### Hey you! 👋
 
-- 👩🏽‍💻 I'm a frontend developer having my first experience with vue and improving my habilities on UI design.
+- 👩🏽‍💻 I'm a frontend developer having my first experience with vue and improving my habilities on UI design and UX design.
 - 📓 Currently learning React Native and trying a volunteer job on teaching web development to students.
 
 <img src="https://github-readme-stats.vercel.app/api?username=lrhernandes&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
