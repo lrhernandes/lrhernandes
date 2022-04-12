@@ -1,12 +1,13 @@
-### Hey you! 👋
+### Olá! 👋
 
-- 👩🏽‍💻 I'm a Vue.js experienced frontend developer currently working with Laravel.
-- 📓 I've been learning React Native and trying a volunteer project on teaching web development to students.
+- 👩🏽‍💻 Sou uma dev frontend com experiência em Vue, React, React Native e Laravel.
+- 📓 Atualmente trabalho desenvolvendo sistemas, landig pages, APPS mobile e hot pages na Plan Marketing Digital.
+- 💬 Foco no desenvolvimento ágil com processos de SCRUM bem definidos.
 
 <img src="https://github-readme-stats.vercel.app/api?username=lrhernandes&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
-### Connect with me:
+### Me encontre:
 
 
 [<img align="left" alt="lrhernandes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](http://instagram.com/lrhernandes)
