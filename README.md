@@ -1,2 +1,2 @@
-- 👩🏽‍💻 Vue, React, React Native & Laravel.
+- 👩🏽‍💻 Vue, React, Next, React Native & Laravel.
 
