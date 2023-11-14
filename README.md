@@ -1,2 +1,1 @@
-- 👩🏽‍💻 Vue, React, Next, React Native & Laravel.
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lrhernandes)](https://github.com/lrhernandes/github-readme-stats)
